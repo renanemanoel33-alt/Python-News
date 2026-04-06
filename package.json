@@ -1,0 +1,17 @@
+{
+  "name": "python-news",
+  "version": "1.0.0",
+  "description": "meu projeto inicial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nex": "^2.0.22",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
